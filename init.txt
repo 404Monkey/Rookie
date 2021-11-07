@@ -8,3 +8,20 @@ def init {
 	int b = 3;
 	print(a+b);
 }
+
+
+coucou toi
+
+
+Vubcyurzbbhvdsbjhkb
+ncdsjkl
+cndksncjkls
+cndsjknjklcez
+njkldnvdls
+vnrjkzlnvls
+vdnsjknvdlnvld
+cdnlskndsk
+vndknvfdl
+nlrenvlfd
+vnrlkvc
+
