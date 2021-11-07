@@ -1,1 +1,10 @@
+
 Theo je te fume sur RL quand tu veux
+Theo je te goume sur RL quand tu veux
+RDV vendredi 18H arena futuroscope
+
+def init {
+	int a = 5;
+	int b = 3;
+	print(a+b);
+}
