@@ -8,3 +8,12 @@ def init {
 	int b = 3;
 	print(a+b);
 }
+
+zekjfeazpo$ tjazf
+e z fezal az
+$ glerz^gkearp
+pe ar<kp
+pkeg r
+pk<ĝ ar<
+g rk
+pear$<kh lear$4ĥ a
